@@ -1,11 +1,5 @@
 # AI-Powered-Pitch-Generator
 
-Here’s the **README** with the installation and running instructions in plain text:
-
----
-
-# Google AI-Powered Pitch Generator
-
 An MVP implementation of a **Pitch Generator** that automates the creation of custom pitch decks and campaign recommendations using dynamic input parameters. This project aligns with the **PARC Collateral and Pitching initiative** and is built using **React and TypeScript**.
 
 ---
